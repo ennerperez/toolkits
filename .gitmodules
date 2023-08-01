@@ -1,0 +1,18 @@
+[submodule "src/color-toolkit"]
+	path = src/color-toolkit
+	url = git@github.com:ennerperez/color-toolkit.git
+[submodule "src/camera-toolkit"]
+	path = src/camera-toolkit
+	url = git@github.com:ennerperez/camera-toolkit.git
+[submodule "src/jumplist-toolkit"]
+	path = src/jumplist-toolkit
+	url = git@github.com:ennerperez/jumplist-toolkit.git
+[submodule "src/markdown-toolkit"]
+	path = src/markdown-toolkit
+	url = git@github.com:ennerperez/markdown-toolkit.git
+[submodule "src/image-toolkit"]
+	path = src/image-toolkit
+	url = git@github.com:ennerperez/image-toolkit.git
+[submodule "src/docset-toolkit"]
+	path = src/docset-toolkit
+	url = git@github.com:ennerperez/docset-toolkit.git
